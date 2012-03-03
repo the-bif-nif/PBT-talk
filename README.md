@@ -9,7 +9,7 @@
 First, start Erlang in the PropEr directory:
 
     $ cd PropEr
-    $ erl`
+    $ erl
 
 Compile and load the listdel module:
 
