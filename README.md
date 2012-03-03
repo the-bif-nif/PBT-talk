@@ -22,8 +22,11 @@ Run unit tests:
 Test each properties (100 tests by default):
 
  `proper:quickcheck(listdel:prop_delete()).` 
+
  `proper:quickcheck(listdel:prop_delete2()).` 
+
  `proper:quickcheck(listdel:prop_delete3()).` 
+
  `proper:quickcheck(listdel:prop_delete4()).` 
 
 To run 1000 tests:
